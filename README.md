@@ -1,1 +1,0 @@
-# nix_development_shells
